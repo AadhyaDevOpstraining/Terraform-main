@@ -1,4 +1,4 @@
-## HashiCorp Certified Terraform: Associate
+## HashiCorp Terraform
 https://developer.hashicorp.com/terraform/language
 
 
