@@ -14,7 +14,7 @@ output "public-ip" {
 }
 ```
 
-### Output Values Customization Shown in The Video:
+### Output Values Customization Shown in this session:
 
 ```sh
 output "public-ip" {
